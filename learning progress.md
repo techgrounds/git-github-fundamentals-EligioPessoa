@@ -18,5 +18,7 @@ I read the introduction, and am starting to follow through on the optional steps
 
  ## Additional difficulties
  
- Formatting isn't working, need to find out why
+ - Formatting isn't working, need to find out why
+ - Realized I needed to put .md at end of file, as extensions are not automatic. Testing now
+ 
  
